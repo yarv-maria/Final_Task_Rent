@@ -848,6 +848,7 @@ button:focus {
 
     .burger {
         display: block;
+        width: 32px;
         font-size: 40px;
         color: #fcb816;
     }
